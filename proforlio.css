@@ -1,0 +1,84 @@
+img{
+    height: 20px;
+}
+.menu{
+    margin-right: 500px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+.pluto{
+    color: aqua;
+    margin-left: 50px;
+    font-size: 50px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    flex-direction:row;
+    flex-wrap:wrap;
+    height:70px;
+    line-height: 70px;
+    margin-top:10px;
+}
+.Hellow{
+    margin-top: 80px;
+    color: white;
+}
+.fr {
+    background-image: url(0031.jpg);
+    background-size: 
+}
+#about{
+    padding:80px 500px;
+    color: black;
+}
+.row{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.about-col-1 img{
+    width:160%;
+    border-radius:15px;
+    height:370px;
+}
+.about-col-2{
+    flex-basis:60px;
+}
+.sub-tittle{
+    font-weight: 600px;
+    color: black;
+}
+.box{
+    color: white;
+     background-color: black;
+     padding: 10px;
+     border: 5px solid;   
+}
+.head{
+    color: white;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+.sub{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 20px; 
+}
